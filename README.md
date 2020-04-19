@@ -1,5 +1,5 @@
 # AutoRocketEngine-Output
-The functionality of one of my software projects that automatically generates rocket engine cad models from CEA data.
+The results of my program AutoRocketEngine that automatically generates rocket engine cad models from CEA data.
 
 ![Alt-Text](https://github.com/jsmartini/AutoRocketEngine-Output/blob/master/Profile.PNG)
 
